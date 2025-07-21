@@ -50,6 +50,7 @@ Improve customer targeting by segment and geography
 Support data-driven sales and marketing strategies
 
 ## 6. Screenshots/Demos
+![Dashboard Preview](https://github.com/Mano630/SALES-DASHBOARD-BY-MANODIP/blob/main/Screenshot%202025-07-21%20162526.png)
 
 
 
