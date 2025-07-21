@@ -34,10 +34,14 @@ Monitor shipping modes and their impact
 
 •      Walkthrough of Key Visuals
 -	KPI Cards: Show total sales, profit, quantity sold, and average order value
-Category-wise Sales (Bar Chart): Highlights top-performing product categories
-Region & Segment Breakdown (Stacked Charts): Compare customer segments across regions
-Profit vs Sales (Scatter Plot): Visualizes profitability by product or customer
-Ship Mode Distribution (Pie/Bar Chart): Tracks delivery trends across orders
+  
+- Category-wise Sales (Bar Chart): Highlights top-performing product categories
+  
+- Region & Segment Breakdown (Stacked Charts): Compare customer segments across regions
+  
+- Profit vs Sales (Scatter Plot): Visualizes profitability by product or customer
+ 
+- Ship Mode Distribution (Pie/Bar Chart): Tracks delivery trends across orders
 
 •      Business Impact & Insights
 Identify high-performing regions and products
