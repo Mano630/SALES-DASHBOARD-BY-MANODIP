@@ -6,9 +6,13 @@ This Dashboard is an interactive Power BI report that analyzes global customer o
 ## 3. Tech Stack
 List the key technologies used to build the dashboard.
 •    📊 Power BI Desktop – Main tool for creating and designing the interactive dashboard visuals.
+
 •    📂 Power Query – Used for importing and transforming the Excel-based order dataset.
+
 •    🧠 DAX (Data Analysis Expressions) – Created custom calculations for sales, profit, and quantity insights.
+
 •    📝 Data Modeling – Structured category, region, and customer data for effective filtering and drill-through.
+
 •    📁 File Format – Dashboard saved as .pbix and shared in .pdf or .png formats.
 
 ## 4. Data Source
